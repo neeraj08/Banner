@@ -11,4 +11,10 @@ gcc banner.c -o banner.o
 
 Sample output is attached as image banner_output_preview.png
 
+
+Extra: You can change font size by modifying variable n in banner.c . Default is n=12 lines.
+
+However, not all values of n give properly formatted output.
+
+
 Have fun!
