@@ -3,7 +3,7 @@ banner command written in C.
 
 For a litle boasting :P I wrote this in Java when I was in class 11. Then rewrote it in C in first year of college.
 
-![alt tag](https://github.com/neeraj08/NPuzzle/blob/master/banner_output_preview.png)
+![alt tag](https://github.com/neeraj08/Banner/blob/master/banner_output_preview.png)
 
 Steps:
 
