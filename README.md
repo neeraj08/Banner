@@ -19,3 +19,4 @@ gcc banner.c -o banner.o
 Extra: You can change font size by modifying variable n in banner.c . Default is n=12 lines.
 
 Have fun!
+
